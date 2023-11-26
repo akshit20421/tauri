@@ -1,5 +1,24 @@
 # Changelog
 
+## \[2.0.0-alpha.11]
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.0.0-alpha.11`
+- Upgraded to `tauri-codegen@2.0.0-alpha.11`
+- [`b6ed4ecb`](https://www.github.com/tauri-apps/tauri/commit/b6ed4ecb3730c346c973f1b34aa0de1b7d43ac44)([#7634](https://www.github.com/tauri-apps/tauri/pull/7634)) Update to syn v2.
+
+## \[2.0.0-alpha.10]
+
+### Enhancements
+
+- [`c6c59cf2`](https://www.github.com/tauri-apps/tauri/commit/c6c59cf2373258b626b00a26f4de4331765dd487) Pull changes from Tauri 1.5 release.
+
+### Dependencies
+
+- Upgraded to `tauri-codegen@2.0.0-alpha.10`
+- Upgraded to `tauri-utils@2.0.0-alpha.10`
+
 ## \[2.0.0-alpha.9]
 
 ### New Features

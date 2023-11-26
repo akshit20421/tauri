@@ -1,5 +1,21 @@
 # Changelog
 
+## \[2.0.0-alpha.11]
+
+### Breaking Changes
+
+- [`5e84e92e`](https://www.github.com/tauri-apps/tauri/commit/5e84e92e99376f24b730f8eba002239379b593e1)([#8243](https://www.github.com/tauri-apps/tauri/pull/8243)) Changed `platform::windows_version` to return a `(u32, u32, u32)` instead of `Option<(u32, u32, u32)>`
+
+## \[2.0.0-alpha.10]
+
+### Enhancements
+
+- [`c6c59cf2`](https://www.github.com/tauri-apps/tauri/commit/c6c59cf2373258b626b00a26f4de4331765dd487) Pull changes from Tauri 1.5 release.
+
+### Dependencies
+
+- [`c7c2507d`](https://www.github.com/tauri-apps/tauri/commit/c7c2507da16a9beb71bf06745fe7ac1325ab7c2a)([#8035](https://www.github.com/tauri-apps/tauri/pull/8035)) Update `windows` to version `0.51` and `webview2-com` to version `0.27`
+
 ## \[2.0.0-alpha.9]
 
 ### New Features

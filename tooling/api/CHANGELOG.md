@@ -1,5 +1,31 @@
 # Changelog
 
+## \[2.0.0-alpha.12]
+
+### New Features
+
+- [`f93148ea`](https://www.github.com/tauri-apps/tauri/commit/f93148eac05a1428e038bd9351a8149b2464ff4c)([#7709](https://www.github.com/tauri-apps/tauri/pull/7709)) Add `tray` and `menu` modules to create and manage tray icons and menus from Javascript.
+
+### Enhancements
+
+- [`b7add750`](https://www.github.com/tauri-apps/tauri/commit/b7add750ef9f32d959de613ab35063ff240281c2)([#8204](https://www.github.com/tauri-apps/tauri/pull/8204)) Added `position` field to the `FileDropEvent` payload.
+
+## \[2.0.0-alpha.11]
+
+### Bug Fixes
+
+- [`822bf15d`](https://www.github.com/tauri-apps/tauri/commit/822bf15d6b258556b689ca55ac2ac224897e913a)([#8130](https://www.github.com/tauri-apps/tauri/pull/8130)) Fix tslib missing in the distributed api package.
+
+## \[2.0.0-alpha.10]
+
+### Enhancements
+
+- [`c6c59cf2`](https://www.github.com/tauri-apps/tauri/commit/c6c59cf2373258b626b00a26f4de4331765dd487) Pull changes from Tauri 1.5 release.
+
+### Bug Fixes
+
+- [`287066b2`](https://www.github.com/tauri-apps/tauri/commit/287066b279f503dd09bfd43d5da37d1f471451fb)([#8071](https://www.github.com/tauri-apps/tauri/pull/8071)) No longer crashing in tests without mocks when `clearMocks` is defined in `afterEach` hook.
+
 ## \[2.0.0-alpha.9]
 
 ### New Features
